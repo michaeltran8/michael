@@ -10,7 +10,7 @@ package practice;
 public class Student {
 private String name;
 private int id;
-//String programName
+String programName
     /**
      * @return the name
      */
